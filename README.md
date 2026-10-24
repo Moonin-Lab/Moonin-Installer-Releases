@@ -5,6 +5,35 @@ checkout or compilation is required. The source repository remains private.
 
 [English installation](#installation) | [Instalacion en espanol](#instalacion)
 
+## SaaS and Enterprise / SaaS y Enterprise
+
+**SaaS:** Moonin hosts and operates the platform. Connect your monitored
+clusters under your subscription; you do not need to deploy the Enterprise
+platform with this CLI.
+
+**Enterprise:** your organization deploys and operates the platform in its own
+Kubernetes environment. **A commercial, signed Enterprise customer license is
+required. Contact Moonin Sales before installation** through your account
+representative or the official Moonin website. Downloading this CLI does not
+grant a license or generate an activation credential. Sales agrees with you on
+capacity, features, validity and support; onboarding supplies the signed license.
+Install it with `moonin-installer license install` or during the Platform wizard.
+Arrange renewal or capacity changes with Sales before expiration. See the
+[license explanation](https://docs.moonin.app/enterprise/) for details.
+
+**SaaS:** Moonin aloja y opera la plataforma. Conecte sus clusters segun su
+suscripcion; no necesita desplegar Enterprise mediante esta CLI.
+
+**Enterprise:** su organizacion despliega y opera la plataforma en su propio
+Kubernetes. **Requiere una licencia comercial de cliente Enterprise firmada.
+Contacte a Ventas de Moonin antes de instalar**, mediante su representante de
+cuenta o el sitio web oficial. Descargar la CLI no concede una licencia ni
+genera una credencial de activacion. Ventas acuerda capacidad, funcionalidades,
+vigencia y soporte; onboarding entrega la licencia firmada. Instalela mediante
+`moonin-installer license install` o el asistente Platform. Gestione renovacion
+o cambios de capacidad con Ventas antes de vencer. Consulte la
+[explicacion de licencias](https://docs.moonin.app/es/enterprise/).
+
 ## Downloads / Descargas
 
 | System / Sistema | Intel / AMD x86-64 | ARM64 |
